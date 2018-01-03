@@ -1,3 +1,4 @@
 abcdef file
 abc branch modify file 
 add a line
+---------
