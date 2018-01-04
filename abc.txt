@@ -1,7 +1,2 @@
-hehehe
-hahaha
-abcdef file
-abc branch modify file 
-add a line 2
-add a line
----------
+1111
+2222
