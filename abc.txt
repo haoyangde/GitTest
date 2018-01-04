@@ -3,4 +3,3 @@ abc branch modify file
 add a line 2
 add a line
 ---------
-hahah
